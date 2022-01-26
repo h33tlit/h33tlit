@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flask, Python, MongoDB**
 
-- 👯 I’m looking to collaborate on **Security Projects**
+- 👯 I’m looking to collaborate on **Security Projects Involving Automation And Monitoring**
 
 - 👨‍💻 My old writeups can be found at - [jubaeralnazi.com](jubaeralnazi.com)
 
