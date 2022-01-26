@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Security Projects Involving Automation And Monitoring**
 
-- 👨‍💻 My old writeups can be found at - [jubaeralnazi.com](jubaeralnazi.com)
+- 👨‍💻 My old writeups can be found at - jubaeralnazi.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
