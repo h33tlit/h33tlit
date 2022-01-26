@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h33tlit&label=Profile%20views&color=0e75b6&style=flat" alt="h33tlit" /> </p>
 
-- 🔭 I’m currently working as a Senior Associate / Pentest Lead **@ Trs Forensics (Singapore)**
+- 🔭 I’m currently working as a Cyber Security Engineer (Pentester) in Singapore
 
 - 🌱 I’m currently learning **Flask, Python, MongoDB**
 
 - 👯 I’m looking to collaborate on **Security Projects**
 
-- 👨‍💻 All of my projects are available at [jubaeralnazi.com](jubaeralnazi.com)
+- 👨‍💻 My old writeups can be found at - [jubaeralnazi.com](jubaeralnazi.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
