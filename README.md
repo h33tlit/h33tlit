@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working as a Cyber Security Engineer (Pentester) in Singapore
 
-- 🌱 I’m currently learning **Flask, Python, MongoDB**
-
 - 👯 I’m looking to collaborate on **Security Projects Involving Automation And Monitoring**
 
 - 👨‍💻 My old writeups can be found at - jubaeralnazi.com
