@@ -18,7 +18,7 @@
   <table>
     <tr>
       <td>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h33tlit&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h33tlit&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" />
       </td>
       <td>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=h33tlit&theme=highcontrast&hide_border=false" />
