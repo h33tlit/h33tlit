@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jubaer (OSCP)</h1>
+<h1 align="center">Hi 👋, I'm Jubaer</h1>
 <h3 align="center">A passionate InfoSec guy from bangladesh trying to achieve the impossible.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=h33tlit&label=Profile%20views&color=0e75b6&style=flat" alt="h33tlit" />
