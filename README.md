@@ -9,7 +9,7 @@
 
 </p>
 
-<br><br>    🔭 I’m currently working as an Offensive Security Professional in Singapore<br><br>    👯 I’m looking to collaborate on Security Projects Involving Automation And Monitoring<br><br>    👨‍💻 My writeups can be found at - jubaeralnazi.com<br>
+<br><br>    👯 I’m looking to collaborate on Security Projects Involving Automation And Monitoring<br><br>    👨‍💻 My writeups can be found at - jubaeralnazi.com<br>
 
 
 
